@@ -8,6 +8,7 @@ namespace Internship1Git
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Pozdrav od collaboratora!");
+            Console.WriteLine("Third and final commit.")
         }
     }
 }
